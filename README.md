@@ -23,7 +23,7 @@ It's recommended to modify Bash prompt and enable colors.
 ```bash
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
-export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$
+export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
 ```
 * Hit CTRL+O to save, then CTRL+X to exit nano.
 
